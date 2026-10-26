@@ -1,0 +1,72 @@
+name: Monthly FOMC Data Update
+
+on:
+  schedule:
+    # Runs at 06:00 UTC on the 1st of every month
+    - cron: '0 6 1 * *'
+  workflow_dispatch: # Allows manual runs from the GitHub Actions tab
+
+permissions:
+  contents: write
+
+# Two runs committing at once would race on git push.
+concurrency:
+  group: fomc-data-update
+  cancel-in-progress: false
+
+jobs:
+  update-fomc-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Documents already in data/csv are skipped, so this only fetches what is new. The step
+      # exits non-zero if any document failed or the data no longer validates. It must not stop
+      # the job here: whatever did download is still worth committing, and the last step turns
+      # the run red so a partial failure is never mistaken for success.
+      - name: Scrape new FOMC documents
+        id: scrape
+        continue-on-error: true
+        run: python fomc_scraper.py --no-export
+
+      - name: Check for newly scraped documents
+        id: check_changes
+        run: |
+          if [ -n "$(git status --porcelain data/csv data/text)" ]; then
+            echo "updated=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Validates the CSVs first and refuses to export (and so to commit) data that fails.
+      # Only corpora whose rows changed are rewritten, which keeps the repository small.
+      - name: Rebuild Excel, SQLite, and Parquet exports
+        if: steps.check_changes.outputs.updated == 'true'
+        run: python fomc_scraper.py --export-only
+
+      - name: Commit and push updated data
+        if: steps.check_changes.outputs.updated == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore(data): automated monthly FOMC data update ($(date -u +'%Y-%m-%d'))"
+          git push
+
+      - name: Fail the run if the scrape reported errors
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          echo "::error::The scraper reported errors or invalid data. See the 'Scrape new FOMC documents' step."
+          exit 1

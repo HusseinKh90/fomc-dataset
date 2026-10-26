@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Never touch the generated binary exports
+*.db binary
+*.parquet binary
+*.xlsx binary

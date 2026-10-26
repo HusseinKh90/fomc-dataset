@@ -1,0 +1,509 @@
+Conference Call of the Federal Open Market Committee on
+March 2, 2020
+A joint conference call of the Federal Open Market Committee and the Board of Governors
+of the Federal Reserve System was held on Monday, March 2, 2020, at 7:30 p.m.
+PRESENT:
+Jerome H. Powell, Chair
+John C. Williams, Vice Chair
+Michelle W. Bowman
+Lael Brainard
+Richard H. Clarida
+Patrick Harker
+Robert S. Kaplan
+Neel Kashkari
+Loretta J. Mester
+Randal K. Quarles
+Thomas I. Barkin, Raphael W. Bostic, Mary C. Daly, and Charles L. Evans, Alternate
+Members of the Federal Open Market Committee
+James Bullard, Esther L. George, and Eric Rosengren, Presidents of the Federal Reserve
+Banks of St. Louis, Kansas City, and Boston, respectively
+James A. Clouse, Secretary
+Matthew M. Luecke, Deputy Secretary
+Michelle A. Smith, Assistant Secretary
+Mark E. Van Der Weide, General Counsel
+Michael Held, Deputy General Counsel
+Thomas Laubach, Economist
+Stacey Tevlin, Economist
+Beth Anne Wilson, Economist
+Michael Dotsey, Marc Giannoni, Joseph W. Gruber, Beverly Hirtle, David E. Lebow, Trevor
+A.Reeve, Ellis Tallman, and Mark L.J. Wright, Associate Economists
+Lorie K. Logan, Manager, System Open Market Account
+Margie Shanks, Deputy Secretary, Office of the Secretary, Board of Governors
+Michele Taylor Fennell, Assistant Secretary, Office of the Secretary, Board of Governors
+Matthew J. Eichner, Director, Division of Reserve Bank Operations and Payment Systems,
+Board of Governors; Andreas Lehnert, Director, Division of Financial Stability, Board of
+Governors
+Rochelle M. Edge, Deputy Director, Division of Monetary Affairs, Board of Governors
+Jon Faust, Senior Special Adviser to the Chair, Office of Board Members, Board of
+Governors
+Joshua Gallin, Special Adviser to the Chair, Office of Board Members, Board of Governors
+Antulio N. Bomfim and Ellen E. Meade, Special Advisers to the Board, Office of Board
+Members, Board of Governors
+Linda Robertson, Assistant to the Board, Office of Board Members, Board of Governors
+Dana L. Burnett, Section Chief, Division of Monetary Affairs, Board of Governors; Jasper
+Hoek, Section Chief, Division of International Finance, Board of Governors
+Achilles Sangster II, Information Manager, Division of Monetary Affairs, Board of
+Governors
+David Altig, Kartik B. Athreya, Sylvain Leduc, Anna Paulson, Daleep Singh, and
+Christopher J. Waller, Executive Vice Presidents, Federal Reserve Banks of Atlanta,
+Richmond, Philadelphia, San Francisco, Chicago, New York, and St. Louis, respectively
+George Kahn, Giovanni Olivei, and Patricia Zobel, Vice Presidents, Federal Reserve Banks
+of Kansas City, Boston, and New York, respectively
+Transcript of the Federal Open Market Committee Conference Call on
+March 2, 2020
+CHAIR POWELL. Thanks, everybody, for making time to get here. This meeting, as
+usual, will be a joint meeting of the FOMC and the Board. I need a motion from a Board
+member to close the meeting.
+MR. CLARIDA. So moved.
+CHAIR POWELL. Without objection. Before we dive into our formal agenda, I want,
+again, to thank you. And we’ll begin with staff briefings on financial markets and the domestic
+and global economic outlook from Lorie, Stacey, and Beth Anne. Lorie, would you like to start?
+MS. LOGAN. Thank you, Mr. Chair. It’s been an exceptionally volatile week in
+markets, as investors process news related to the spread and effect of the coronavirus
+and contemplate policy actions that might be taken to address it. In my remarks, I’ll
+give an update on the pronounced moves in markets over the past week, discuss
+expectations regarding monetary policy here and abroad, and highlight a number of
+risks that we have been monitoring.
+As you know, market participants’ central focus since the January FOMC meeting
+has been on the coronavirus. Since the outbreak’s international spread began to
+intensify around mid-February, markets have repriced dramatically as participants
+assess the potential economic and financial fallout. Global risk asset prices and
+sovereign yields have declined sharply, and market expectations of policy easings by
+the Fed and other major central banks have increased notably. To provide some
+context: U.S. Treasury yields have declined roughly 70 basis points, more than two-
+thirds of which occurred over the past three weeks. Core euro-area and Japanese
+yields, which were already near historically low levels, have also fallen notably. In
+addition to the declines in nominal U.S. Treasury yields, measures of inflation
+compensation have reached levels last seen in 2016.
+I’ll start with a little bit more of a detailed look at policy expectations both in the
+United States and abroad. The expected path of the policy rate implied by a straight
+read of futures contracts now indicates roughly 40 basis points of easing through the
+March FOMC meeting, 70 basis points of easing through the June meeting, and
+roughly 90 basis points of easing by year-end. Since last Friday, 18 of the 24 primary
+dealers have revised their modal assessments, pulling forward or introducing
+additional expected easing.
+With respect to the easing implied through March, recent commentary has
+highlighted the Chair’s statement on Friday as indicating that the FOMC is prepared
+to cut rates at the March meeting. Modal expectations appear split between a 25 basis
+point and 50 basis point cut at the March meeting, with some contacts citing previous
+communication by Committee members about the need to act aggressively when
+close to the effective lower bound. Of note, March federal funds futures contracts
+and very short-dated overnight index swaps suggest that investors attach a significant
+probability to an intermeeting cut in the target range—though most contacts have
+indicated they do not view this as the most likely outcome.
+Expectations for global monetary and fiscal easing have also increased, with some
+contacts noting the possibility of a coordinated effort across central banks or fiscal
+authorities. Though room for ECB and BOJ policy rate cuts is viewed as limited, the
+ECB noted its readiness to take appropriate and targeted measures, and markets imply
+a 70 percent chance of a 10 basis point cut at its March 12 meeting. The BOJ
+announced that it is prepared to provide liquidity and ensure stability, and
+subsequently offered liquidity through repo and purchased a record high amount of
+equity exchange-traded funds (ETFs) overnight. Policy rate cuts are also priced for
+the March meetings of the Reserve Bank of Australia, the Bank of Canada, which
+meets this week, and the Bank of England and the Reserve Bank of New Zealand,
+which meet later in the month.
+Let’s turn to risk asset markets. U.S. and global risk assets partially retraced
+earlier price declines today, but U.S. and global equity prices remain roughly 8
+percent and 11 percent lower, respectively, despite expected policy support by global,
+fiscal, and monetary authorities. The decline in the S&P 500 index has been most
+pronounced in exposed sectors, including energy, retail, technology, airline, and
+hospitality. Several dealers have downgraded their earnings growth forecasts for the
+S&P 500 this year from mid-single digits to flat growth, and attention remains on
+further guidance from companies, particularly those vulnerable to travel restrictions
+and supply chain disruptions.
+Alongside the sharp equity price declines, implied equity market volatility, as
+measured by the Chicago Board Options Exchange’s CBOE Volatility Index (VIX),
+rose to around 40 last week, just above its level on the day of the 2018 VIX spike and
+its highest closing level since 2015.
+With the deterioration in risk sentiment, there has also been significant widening
+of spreads in U.S. and European corporate credit markets as well as in peripheral
+European spreads. The weakness has been broad based, but energy firms have
+underperformed amid sharp declines in crude oil prices. Investment-grade credit has
+been more resilient, and all-in yields remain below levels seen in late 2018. Contacts
+note that primary credit markets have seen issuance of investment-grade, high-yield,
+and leveraged loans generally dry up amid ongoing market volatility, though one
+small deal did price today. Expectations for upcoming issuance in the investment-
+grade market vary widely, highlighting the uncertainty.
+Meanwhile, money markets have been resilient amid the broader financial market
+volatility. The effective federal funds rate has “printed” near the interest on excess
+reserves (IOER) rate, and the overnight money market rates have been subdued,
+suggesting the ample reserves regime has been effective at ensuring control of the
+short-term interest rates.
+Pricing and trading conditions in offshore dollar markets have also been stable.
+FX swap basis spreads, which are a measure of the premium paid to obtain U.S.
+dollars via the foreign exchange market, have widened a bit in short data tenors. But
+levels are well within recent ranges and below the rate on the Federal Reserve’s
+liquidity swap lines.
+In terms of market functioning to date, liquidity conditions in the Treasury
+securities, equity, and credit markets have deteriorated, but markets have remained
+orderly. With the volatility spiking in the equity and Treasury securities markets,
+volumes have increased, while bid-ask spreads have widened and market depth has
+declined.
+Overall, the situation remains highly fluid. A number of key risks are in focus,
+and I thought I’d close by noting a few of those risks that market participants have
+highlighted. Though far from exhaustive, they give a sense of the range of issues that
+we have been hearing. The first risk relates to funding risk faced by corporates.
+Amid the recent credit market volatility and uncertainty over how the virus will affect
+demand, new-issue activity in both loan and bond markets has ground to a virtual
+halt. Although most firms would be able to endure a temporary shock, in part
+because of prior refinancing activity, a prolonged seizing-up of primary markets
+would be of concern. A rough estimate is that as much as $500 billion, or roughly
+20 percent, of debt issued by lower-rated issuers in cyclical or consumer-oriented
+sectors could experience heightened stress. We’re carefully watching new-issue
+activity in bond loan and commercial paper markets, as well as pricing in the
+secondary markets.
+The second risk relates to operational vulnerabilities posed by the activation of
+business continuity plans that remain untested on a large scale or over long horizons.
+Many U.S. financial institutions have activated crisis management or contingency
+frameworks to protect personnel and operations, including telework arrangements and
+travel restrictions. Some firms have reported concerns that if a sufficiently large
+number of employees are unable to come to the office, operationally-intensive
+back-office activities could become vulnerable to disruption. Though many firms
+have backup sites, a widespread disruption could affect those alternative locations as
+well.
+The third risk that I’ll mention is that market functioning could become impaired
+in one or more asset classes, leading to broader spillovers. Elevated trading volumes,
+poor liquidity, and dealer hedging flows could render markets more fragile and
+accident prone. And if the disruption is prolonged and severe, new liquidity risks
+could emerge.
+The last risk that I’ll note is that one or more large market participants could
+absorb significant losses with possible spillovers. For example, the long–short equity
+hedge fund sector, which is the largest leveraged equity strategy, has had increased
+long exposures in recent months. That said, our outreach to prime brokers hasn’t
+uncovered any specific concerns to date. There have been no reports of margin calls
+going unmet other than the typical number related to incorrectly booked trades or
+disputed marks, nor have there been any reports of material changes in hedge fund
+positioning or leverage.
+To sum up: The situation remains fluid, and markets remain especially focused
+on central bank communications. Indeed, the notable increases in global equity prices
+during today’s trading session appear to be predicated in large part on expectations
+that central banks globally may soon take action. We’ll continue to monitor the
+adoption of contingency staffing and operational preparedness with our counterparties
+and other central banks as well as any reports of disruptions to market functioning
+and liquidity.
+Thank you, Mr. Chair. I’d be happy to take any questions.
+CHAIR POWELL. Why don’t we hold the questions to the end?
+MS. LOGAN. Okay.
+CHAIR POWELL. If that’s okay.
+MS. TEVLIN. Okay. I think Beth Anne was going to go next. Beth Anne, are you on
+the phone?
+MS. WILSON. Hi. Can everyone hear me?
+MULTIPLE PARTICIPANTS. Yes.
+MS. WILSON. Great. We have made significant changes to our foreign outlook
+since the January FOMC meeting. First, the foreign economy entered 2020 with even
+less momentum in key economies than we had just five weeks ago. We were starting
+to see comforting signs of improvement in the Q4 data for emerging Asia, but data
+seriously disappointed in Japan and the euro area. And even absent the coronavirus,
+we would likely be marking down our forecast for early 2020.
+And then, enter the coronavirus in mid-January. Soft indicators that we’ve been
+tracking, including shipping, carbon emissions, tourism, and travel flows, have
+pointed to a collapse of activity in China, with spillovers more broadly. Harder
+indicators and data are now just starting to trickle in for the coronavirus period—both
+the official and the Caixin measures of the Chinese Purchasing Managers' Indexes
+(PMIs) reached record lows in February. And exports to China from countries in the
+region have plunged. Data for the advanced economies have held up better, but most
+of those were for the period before the virus spread to Italy and more broadly.
+At this point, we estimate that the effect of the coronavirus and the efforts to
+contain it will sink this quarter’s global growth into negative territory, with Chinese
+growth now estimated to fall 8 percent, a 14 percentage point swing from what we
+had in January. We also expect the virus to hurt first-quarter growth outside of
+China, as disruptions in China spill over to the global economy through less external
+demand from China, including for tourism and commodities, and disruptions to
+supply chains. We also see outbreaks of the virus in other countries having negative
+effects on sentiment and consumption, and, indeed, we now have a notable recession
+penciled in for Italy this year.
+With indications that, in China, the virus is becoming contained and factories are
+reopening a bit, we heroically assume that Chinese growth will pop up in Q2. As
+activity in China recovers, that improvement slowly ripples through the foreign
+economies, and as the virus is eventually contained elsewhere abroad, we expect
+some bounceback in the second half, although we have lowered our projection for the
+year by about ½ percentage point, to 1¾ percent.
+It’s quite possible, however, that the virus is more widespread, with broader
+containment measures put in place, supply chain disruptions more acute, and
+confidence and financial channels—those that Lorie just discussed—more severe.
+Stacey will now talk about the domestic forecast next and our coordinated approach
+that we’re taking on the international and domestic sides of the Board to approach the
+risks that we see. Thanks.
+MS. TEVLIN. Although domestically we are still at earlier stages than what Beth
+Anne just discussed, and we have not yet seen an imprint in our hard data, the
+monthly survey data, such as the Institute for Supply Management (ISM) and the
+Michigan Consumer Sentiment indexes, are still holding up, but those survey
+responses are now pretty dated, having basically wrapped up their survey the
+weekend before this last one.
+In higher-frequency data, we’re seeing some softening in daily sentiment indexes,
+but it’s a little early to say. In daily credit card data, travel and lodging numbers for
+February were the lowest since the Great Recession. And, according to our credit
+card company contacts, they haven’t yet seen a bounce in retail spending, as you
+might expect if people are stocking up and preparing. However, a large—very
+large—e-retailer said that sales were huge over the last week. They described them
+as completely anomalous, and that likely reflects both some hoarding and a switch to
+online shopping. Anecdotally, of course, people are talking about empty shelves.
+And in recent data, we have not yet seen shipping from China recover much from the
+January plunge, so it seems likely that supply chains are not getting refilled anytime
+soon.
+Therefore, in the projection that we are currently calling baseline, we are
+assuming that there will be supply chain disruptions, weaker sentiment, higher
+uncertainty, as well as the drag already in train from weaker Q1 foreign growth and a
+decline in tourism and other exports. But this is a pretty mild scenario, because we
+assume that there are no additional outbreaks of the scale of Hubei, but just a number
+of more moderate flareups, including in the United States, continuing through the
+third quarter. And then this results in a U-shaped slowdown here in the United States,
+and we have marked down 2020 GDP growth about 0.3 percentage point. In this
+case, the unemployment rate stays at 3.6 percent for the rest of this year rather than
+falling further. And core inflation is expected to be at 1.8 percent, down just one-
+tenth, reflecting the rise in the dollar and the weaker commodity prices.
+Now, of course, we’ve had to make a number of assumptions to arrive at this
+forecast, and it could be that the virus spreads much more widely than we are
+assuming, and that severe social distancing is required to contain it. In this case, we
+would expect to see additional factory shutdowns and supply chain disruptions, more
+negative sentiment, much more severe lockdowns—including the closing of public
+schools and a prohibition on large public gatherings—and the loss of workforce.
+Financial market conditions would, of course, worsen. In a scenario like this one,
+which we’ll probably end up showing as an alternative simulation, we might expect
+global real GDP to fall to a level 1½ percent below baseline by the end of next year.
+U.S. real GDP growth would be 1 percentage point weaker than we are currently
+forecasting, and the unemployment rate could move up to 4.3 by the end of this year.
+We can easily imagine a still weaker scenario in which the virus has mortality and
+morbidity rates on the high end of current estimates, and social distancing and the
+loss of workforce are more extreme. In this scenario, the level of global real GDP
+could fall nearly 4 percent below baseline, with a more moderate but still recessionary
+outcome in the United States. The unemployment rate might rise to nearly 6 percent
+by the end of this year in that scenario, with inflation dropping below 1.5 percent.
+And, at this point, all of these scenarios strike us as pretty plausible.
+CHAIR POWELL. Thank you. Now there is an opportunity to ask questions of Lorie,
+Beth Anne, or Stacey. And indicate, please, your interest in asking such a question by holding
+up a piece of paper. We’ll write down your name and make a list. Anybody on the phone have a
+question? [No response] Okay, thank you. Then hearing none, let’s move on to discussion of
+policy for this meeting.
+I’ve had a chance to speak to all FOMC participants today, and thank you, everyone, for
+making yourself available. I just want to start by taking a step back and note that it was only 10
+days ago or so that we were in a world in which the rate of new infections in China, particularly
+outside Hubei Province, was declining, and the number of infections outside of China was quite
+small. And it seemed reasonable to maintain hope that the infection would be contained, and
+many forecasts from that time reflected only modest effects here in the United States. But our
+awareness of the situation began to change, much for the worse, about 10 days ago, with
+significant outbreaks in Korea, Italy, and Iran. And I picked up growing concern at the G-20
+meeting in Riyadh that weekend that the coronavirus was likely to now spread widely around the
+world, and events since that time suggest that that is indeed the case.
+I had hoped—and I’m sure we all had hoped—that the virus would be contained in
+China, for the most part. Short of that, we hoped to be able to wait until at least the April
+meeting before seriously considering a response to these developments. And, as we’ve
+discussed, that is no longer a reasonable expectation. The spread of the virus and the measures
+taken to protect people from it represent a material risk to the economic outlook—an outlook that
+was a strong one as recently as a month ago. Markets and the general public need a clear signal
+that the Federal Reserve and other policymakers around the world understand the significance of
+what’s going on and will move decisively to counter a tightening of financial conditions and
+support the economy.
+The statement we issued last Friday, with broad support on the Committee, and the
+Monday opening statements that Lorie mentioned by the Bank of Japan and the Bank of England
+have afforded at least a temporary improvement in markets, but the words in those statements
+will only be effective to the extent they are followed now by actions. I believe that this
+Committee should take such action today in a forceful manner. What I am proposing is a
+50 basis point cut to be announced tomorrow morning. There will be a G-7 call, finance
+ministers and central bank governors, tomorrow morning at 7:00 a.m. After that call, there will
+be issued a strongly worded public statement of commitment to provide policy support for the
+economy during this challenging time.
+After that—and I think it’s still not nailed down exactly when that will be, I take it—we
+will announce our rate cut, assuming it’s approved. We think that, again, as Lorie mentioned,
+Australia may announce a policy rate cut tonight, and that Canada may announce a cut on
+Wednesday. The ECB issued a statement earlier today. These actions, after putting them all
+together, including the G-7 statement, amount to a solid showing of coordinated force.
+I think we all understand that a rate cut will not reduce the spread of infection or fix
+broken supply chains. It will not stop people from canceling travel plans. But it can provide a
+boost of confidence to markets and to households and businesses. And with the economy facing,
+in addition to a supply shock, the possibility of a large demand shock, our tools will provide
+meaningful support to the economy at a key time.
+There’s a good chance that this expansion, in my view, can continue and not end as a
+result of the virus. And I think our obligation is to do what we can to increase the chances of
+that. So I’m pleased to say that this proposal seems to have broad support, and I’d be glad to
+hear any comments that people would like to offer. If you’d like to comment, again, please hold
+up a piece of paper. [No response] Anybody on the line? President Bullard.
+MR. BULLARD. Thank you, Mr. Chair, and thanks for your comments. I am generally
+supportive of moving at this time by 50 basis points. I see the Committee as likely to make this
+move at the March meeting anyway, and so I think we’ll do better by going ahead and moving at
+this meeting. There is some risk of feeding into the panic and making the situation worse, but I
+see that risk as relatively low at this juncture, understanding that the situation remains quite fluid.
+My baseline case, as of tonight’s meeting, is that U.S. real GDP growth in the first half of
+2020 is likely to be only modestly affected by the direct effects of the coronavirus. But I think
+there is meaningful downside risk relative to that baseline. Accordingly, I see the 50 basis point
+reduction in the policy rate as a form of insurance against this downside risk. I would note on
+the forecast that IHS Markit has Q1 U.S. GDP growth still at 2.1 percent, and they are
+judgmentally adjusting. The Organisation for Economic Cooperation and Development (OECD)
+has 2020 U.S. real GDP growth at 1.9 percent versus 2.0 percent, and they are judgmentally
+adjusting as well. So it’s not at all clear, right at this juncture, that we’re going to get a
+meaningful slowdown, but I do think there is this downside risk.
+Despite my support for this action, I am concerned that this policy move will be
+perceived and understood as a reaction to last week’s selloff in U.S. and global equity markets. I
+think this is a significant risk for this Committee, as it will set up expectations that any
+10 percent selloff in equity valuations is likely to be met with major policy action. I don’t think
+that that is a pledge we want to make, because equity pricing is notoriously volatile, and some
+corrections are warranted, as pricing sometimes moves well away from what seems to be
+consistent with market fundamentals. Many will, no doubt, argue that the current selloff is
+consistent with a move toward more rational pricing of the value of the U.S. corporate sector.
+Because of this danger for the Committee, I think we need to make the case as strongly as
+we can in the days ahead that this move is about the risks to the economy and not about equity
+prices. This Committee and equity market participants both look forward, and what is on the
+horizon is increased recession risk emanating from the repercussions of the coronavirus. The
+inverted yield curve is also suggesting increased recession risk. In addition, the Committee has
+missed its stated inflation target to the low side based on a preferred measure for many years, and
+this shock is likely to push inflation still lower if we do not act appropriately.
+I am also moderately concerned about how the Committee intends to play this sequence
+as we go forward. My experience on this Committee is that moving forward without a plan can
+backfire, as it can leave the Committee out of position in the near future. My sense is that, by
+moving today, we will eliminate any need to move at the March meeting. We will have very
+little additional information at that point. If we wanted to move more, why aren’t we doing it at
+this meeting?
+So if we don’t move at the March meeting, that would set us up to monitor incoming data
+and to allow the implications of the virus to come into sharper focus. My baseline is that the
+near-term news that is days ahead on the virus will be negative, in the sense that we will see
+many more cases, I think, in the United States and probably around the world, but as the weeks
+go on, that will turn neutral to positive, as the number of new cases begins to decline and the
+virus comes under control. So we need to maintain enough policy space and timing to be able to
+play that appropriately and give the appropriate reaction in order to handle this risk in the right
+way. Thank you, Mr. Chair.
+CHAIR POWELL. Thank you. Other comments? President Kashkari.
+MR. KASHKARI. Thank you, Mr. Chair. I support this action today. I view this as
+taking out insurance, given how much uncertainty there is about what’s going to happen with the
+coronavirus—is it going to be much worse than we expect or not. I think the risk of being too
+aggressive right now is much smaller than the risk of not being aggressive enough if it turns out
+that this is a true pandemic in which the worst-case scenarios that Stacey talked about
+materialize.
+I think the biggest concern that I have is if what materializes is one of the really bad
+scenarios and this is a true pandemic, we could, and I think we will, get back to the lower bound
+of the federal funds rate, probably pretty quickly. And then what? You know, what are our
+policy responses going to be if we end up getting back to the lower bound?
+I can imagine a scenario in which the Treasury yield curve is basically at zero, and the
+federal funds rate is basically at zero, and credit spreads are wide. What do we do in that type of
+situation? So I would just encourage us going forward—I’d like to see us start doing work on
+that, on what the tools are that we might use to try to respond to that downside scenario. Thank
+you, Mr. Chair.
+CHAIR POWELL. Thank you. Any further comments? Folks on the phone?
+MS. MESTER. Mr. Chair, this is Loretta.
+CHAIR POWELL. Please go ahead, Loretta.
+MS. MESTER. I support the move somewhat reluctantly, because I was hoping that we
+could wait until we saw whether this was actually going to turn from a supply shock into a
+broader demand shock. The way you framed it, I agree with—I don’t think lowering interest
+rates is going to get people to go back and mingle and start traveling again. But in the context of
+a global lack of confidence, I think acting with our other central bankers, in terms of trying to
+show that we’re there and that we’re taking this move because of what could be a demand shock
+later on and a pullback in growth, has the potential of adding confidence.
+I do think that there are other actions that other authorities, like public health authorities
+and fiscal authorities, could take that would be more powerful in terms of boosting confidence
+than our taking action as central bankers. But I am supportive of the move, and I understand
+why you are suggesting we do it.
+I do agree that we should be playing out these scenarios to see what our path will be,
+because if things do deteriorate significantly, I would feel more comfortable if we at least had
+thought through what our next steps will be and how we will be reacting to them or preempting
+them.
+So, again, I’m supporting the move now somewhat reluctantly just because of the
+situation, but I understand totally why it makes sense to do this with our other central banks.
+Thank you.
+CHAIR POWELL. Thanks very much. So, any other comments, either on the phone
+or—President Daly.
+MS. DALY. I realized you couldn’t see me—I was holding the paper in front of myself.
+But thank you. So I just wanted to follow up on what Loretta and Neel said, is that, you know, I
+see this as very appropriate. I would have been more reluctant about it last week before the news
+came out and before I started meeting with my counsels and CEOs who are saying that the
+uncertainty that’s weighing down on their demand is already present. Even though we don’t see
+it yet in the hard data, they are seeing early signs of it, and I think this is an insurance against that
+spreading further. We can always reverse if things don’t turn out as well as—or as poorly as—
+we think they might, but it’s harder to get ahead of things once they’ve already deteriorated. So I
+am supportive of this move now, completely for the reasons that others have given.
+And I thought that the briefing that Stacey and Beth Anne both gave us really
+characterized well what we’re up against right now and what the scenarios could be. So I am
+also supportive of thinking about those and, if you will, “war-gaming up” what our options
+would be if that occurs. So thank you.
+CHAIR POWELL. Thank you. Other questions or comments? President Evans.
+MR. EVANS. Thank you, Mr. Chair. I do support this move. I think it’s a good move
+for risk-management reasons. I actually have a question. You know, this isn’t a normal period
+when we would have a blackout for the next couple of days, and you would have a press
+conference. Many of us are going to go out and speak. I’m speaking tomorrow a couple of
+times. And I just wonder about messaging and how we might want to think about presumably
+not conveying that there is an obvious next cut coming at the next meeting or, you know, any
+type of signaling there. Any thoughts about messaging that might step on what we intend to
+accomplish with this 50 basis point cut or something that would further enhance it would be
+extremely welcome. Thank you.
+CHAIR POWELL. Yes. So I’ll just address that now. I do think that the right thing to
+say about the March meeting is that that’s not a decision we’ve made, and, really, not something
+to discuss right now. Don’t say, “we’re not going to do it.” Don’t say, “we’re going to do it.”
+Don’t say you “lean into it,” or anything like that. Just say, “That’s something that’s not before
+us today, so I won’t have any comment on that for you.” That’s what I’m going to say
+tomorrow. I am going to have a little small press conference with a few questions, and I’ll say,
+“Look, I’m here to talk today about this action, and I really have nothing to say about the
+meeting in two weeks.”
+Other than that, I just think, you know, I’ve talked to each of you, we’ve talked about it, I
+think you understand and are supporting the rationale of it. I think we want to maintain as much
+policy flexibility going forward as we possibly can, and I think we may have some. We’ll see.
+We’ll see. President Bullard.
+MR. BULLARD. Yes. Mr. Chair, are we promoting this as an international
+coordination, or are we not? I noticed some of the other central banks have already made
+announcements. Some seem to be leaning against, so—
+CHAIR POWELL. So I wouldn’t oversell that, but I think it’s fair to say that we’ve had
+much conversation among each other, that we see the same concerns, and that we’re acting in the
+same direction. The G-7 statement is, in fact, a statement of the G-7 finance ministers and
+central bank governors who see these very issues and come down forthrightly for using our tools
+to support the economy. So there’s a commonality of understanding, a commonality of
+commitment to using our tools. But, you know, we’re not issuing an identical press release or
+something like that, just because that’s the way it’s happening. I mean, a lot of things are
+happening, so it looks loosely coordinated, and we’re all talking behind the scenes. So that’s the
+picture.
+Any other questions or comments, on the phone or visible? [No response] Okay. Oh,
+sorry. Governor Brainard.
+MS. BRAINARD. Thanks. The spread of the coronavirus around the globe, sadly, now
+appears inevitable, and the human toll is likely to be great. The data out of China today, I think,
+provide some sense of the potential harm to supply chains, to business activity, and to consumer-
+facing sectors that we could face here from the spread of the virus. The sharp declines in asset
+valuations and long-term yields reflect a notable increase in tail risk, and the virus in particular
+could pose important risks to consumer confidence and activity, which have been the key to our
+resilience over the past year.
+While I don’t see monetary policy as sufficient on its own, it can make—and should
+make—a vital contribution by helping to restore confidence and helping to ease financial stress
+among indebted businesses and cash flow constrained households that are especially vulnerable
+to temporary reductions in earnings.
+For all those reasons, I do support taking the decisive action today. And I am hopeful
+that the combination of this action with the strong G-7 statement and complementary actions on
+the part of our peers should provide the best prospect of ensuring the combined effect on global
+sentiment will be greater than the sum of its parts. Thank you.
+CHAIR POWELL. Thank you. Okay. Hearing no more and seeing no more, going
+once? [No response] All right. So thank you very much for your comments. Those are very
+thoughtful questions being raised, and, you know, I think we have great answers. I think you’re
+seeing central banks moving all over the world, and we just happen to have more policy space
+than the others. But, essentially, all the major central banks who have policy space will be
+moving within a very short period of time or within a couple of weeks, which isn’t very many,
+but—okay.
+So I’m going to go ahead and move to the vote. For the policy action at this meeting,
+we’ll be conducting a vote that will be finalized tomorrow to correspond with the release date for
+the statement. The vote will encompass the policy statement and directive to the Desk as they
+appear in the materials distributed earlier today. I will be voting tomorrow. Jim, can you please
+call the roll?
+Vice Chair Williams Yes
+Governor Bowman Yes
+Governor Brainard Yes
+Governor Clarida Yes
+President Harker Yes
+President Kaplan Yes
+President Kashkari Yes
+President Mester Yes
+Governor Quarles Yes
+CHAIR POWELL. Next up, we need to approve the corresponding changes in the
+interest rates on reserves. I will not vote until tomorrow, but I would like to collect the votes of
+the other Board members now. May I have a motion from a Board member to set the interest
+rates on required and excess reserve balances at 1.10 percent effective March 4?
+MR. CLARIDA. So moved.
+CHAIR POWELL. May I have a second?
+MS. BRAINARD. Second.
+CHAIR POWELL. Any objections? [No response] Thank you. Finally, we need to
+approve the corresponding changes in the rates on primary credit, secondary credit, and seasonal
+credit. Again, I won’t vote until tomorrow but will collect the votes of other Board members
+now. May I have a motion from a Board member to approve the Reserve Bank requests to
+decrease the primary credit or discount rate by 50 basis points, to 1.75 percent, effective March 4
+and to renew the existing formulas for calculating the rates applicable to discounts and advances
+under the secondary and seasonal credit programs as specified in the staff’s February 28, 2020,
+memo to the Board?
+MR. CLARIDA. So moved.
+CHAIR POWELL. Second?
+MS. BRAINARD. Second.
+CHAIR POWELL. Objections? [No response] Thank you. Our final agenda item is to
+confirm that our next meeting will be Tuesday and Wednesday, March 17 and 18, 2020. That
+concludes this meeting. Thank you very much for your participation, and I’ll see you soon.
+END OF MEETING
